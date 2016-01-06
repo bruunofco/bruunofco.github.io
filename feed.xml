@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruno Oliveira | Full Stack Developer</title>
+    <description>Desenvolvedor Full Stack, Criador do EasyFast PHP Framework, PHP, AngularJS, Angular2, JavaScript, HTML5 e CSS3</description>
+    <link>http://bruunofco.github.io/</link>
+    <atom:link href="http://bruunofco.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 05 Jan 2016 22:53:57 -0200</pubDate>
+    <lastBuildDate>Tue, 05 Jan 2016 22:53:57 -0200</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>PHP não é gambiarra</title>
+        <description>&lt;blockquote&gt; &lt;p&gt;Não, PHP não é Gambi…&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Fala galera, já tive que citar essa frase a cima por várias vezes e hoje eu quero discutir um pouco sobre isso. &lt;br /&gt;&lt;/p&gt; &lt;p&gt;Por muito tempo e até hoje escuto outros desenvolvedores dizerem que “PHP é orientado a gambiarra”, “linguagem de pedreiro”, “linguagem chumbada”… Enfim poderia citar muitas outras frases relacionadas a este contexto mas deixo isso pra você fazer nos comentários rsrs.&lt;/p&gt; &lt;p&gt;Não posso negar PHP é uma das linguagens que permite e oferece mais recursos para um “Gambiarreiro”. Em PHP nos podemos fazer a mesma coisa de infinitas formas, para...</description>
+        <pubDate>Tue, 05 Jan 2016 18:46:07 -0200</pubDate>
+        <link>http://bruunofco.github.io/php-nao-e-gambiarra</link>
+        <guid isPermaLink="true">http://bruunofco.github.io/php-nao-e-gambiarra</guid>
+        
+        <category>php</category>
+        
+        
+        <category>backend</category>
+        
+      </item>
+    
+      <item>
+        <title>Hello World (Olá mundo)</title>
+        <description>&lt;p&gt;Olá mundo, esse vai ser um espaço muito útil tanto pra mim quanto para os leitores, meu objetivo é compartilhar um pouco dos meus conhecimentos
+que alias são poucos mesmo rsrs, mas oque eu sei vou compartilhar com vocês.
+E claro quero muito aprender com cada pessoa que ler minhas postagens, com seus feedback e críticas.&lt;/p&gt;
+
+&lt;p&gt;Bom por hoje é só, aguardem que em breve escreverei novas postagens.&lt;/p&gt;
+
+&lt;p&gt;Abraçooooo.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Jan 2016 18:07:39 -0200</pubDate>
+        <link>http://bruunofco.github.io/hello-world-ola-mundo</link>
+        <guid isPermaLink="true">http://bruunofco.github.io/hello-world-ola-mundo</guid>
+        
+        <category>wello</category>
+        
+        <category>world,</category>
+        
+        <category>inicio,</category>
+        
+        <category>começo,</category>
+        
+        <category>Bruno,</category>
+        
+        <category>bruunofco,</category>
+        
+        <category>salluz</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
